@@ -4,10 +4,11 @@
 2. Knowlege of Concept
 3. Programming Skill
 
--->**via 12 topics**
+**via 12 topics**
+
 ![image](https://github.com/lenguyenngocmai/Intro_computer_science_and_programming_in_python/assets/92318237/3bf1db2b-c893-4473-b180-0bf9bd07aa9f)
 
--->**and 5 problem set**
+**and 5 problem set**
 1.
 2.
 3.
